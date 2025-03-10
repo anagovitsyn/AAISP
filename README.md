@@ -39,6 +39,10 @@ AAISP/
 ## Contributions
 This project is in its early stages. Contributions and discussions are welcome! Feel free to open issues or submit pull requests.
 
+## Introduction
+[https://medium.com/@toulousef1.duchies/the-future-of-software-development-automated-ai-software-production-aaisp-e6d78c1d1fa3
+](https://medium.com/@toulousef1.duchies/the-future-of-software-development-automated-ai-software-production-aaisp-e6d78c1d1fa3)
+
 ## License
 Apache 2.0
 
